@@ -2,7 +2,7 @@
 
 <details open>
   <summary>PAST: Challenged Expectations</summary>
-  <blockquote>"It is a maze of linked and abbreviated ideas searching for coherence..." — Joshua Reinier, <em>Z^k: A Zettelkablooey</em></blockquote>
+  <blockquote>"It is a maze of linked and abbreviated ideas searching for coherence..." — Joshua Reinier
   <p>
     When I began this course, I expected <strong>critical making</strong> to feel rigid—like applied critical theory with technical demands. 
     Instead, it revealed itself as a <strong>flexible, evolving mindset</strong>, one that values <em>messiness</em>, <em>glitches</em>, and <em>incomplete paths</em> just as much as polished outcomes.
