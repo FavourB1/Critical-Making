@@ -1,112 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Critical Making Reflection</title>
-  <style>
-    body {
-      font-family: 'Georgia', serif;
-      margin: 40px;
-      background-color: #fdfcf9;
-      color: #2e2e2e;
-      line-height: 1.6;
-    }
+# Critical Making: A Reflection on Process, Platforms, and Purpose
 
-    h1, h2 {
-      color: #5a2a83;
-    }
+This semester has been a journey in expanding what I thought research and making could be. I came into the course expecting technical experimentation, but I leave with a deeper understanding that critical making is as much about philosophy and intention as it is about tools.
 
-    details {
-      margin: 20px 0;
-      background: #f7f5ff;
-      padding: 15px 20px;
-      border-radius: 10px;
-      border-left: 5px solid #a789d4;
-      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
-      transition: all 0.3s ease;
-    }
+Through platforms like [Bitsy](https://make.bitsy.org/), [Twine](https://twinery.org/), [p5.js](https://p5js.org/), [Google Earth](https://earth.google.com/), and [Voyant Tools](https://voyant-tools.org/), I explored not just content creation, but the politics, aesthetics, and ethics of making. One of the most significant steps in this process was engaging with [GitHub](https://github.com/)—not merely as a storage site, but as a critical space for sharing, versioning, and shaping ideas in public.
 
-    summary {
-      font-weight: bold;
-      font-size: 1.2em;
-      cursor: pointer;
-      color: #444;
-      outline: none;
-      transition: color 0.2s ease;
-    }
+GitHub became a medium where I could test my HTML designs, reflect on my progress, and publish my evolving reflections. You can view my project repository [here](https://github.com/YOURUSERNAME/YOURPROJECT). It helped me visualize the notion of “version control” in a more philosophical sense—where each commit was like a dialogue with my past self. This became particularly meaningful in the final phase of the course as I transformed my written reflection into a hypertext HTML page. This act of publishing was not about perfection, but about process visibility—an idea at the heart of critical making.
 
-    summary:hover {
-      color: #5a2a83;
-    }
+The projects that resonated most—data visualization with Voyant Tools and creative experimentation with comics and narrative design—demonstrated to me that multimodal scholarship allows us to think beyond academic silos. These exercises helped me bridge theory and practice in ways that felt relevant to real-world digital environments, from interactive learning systems to public storytelling platforms.
 
-    details[open] {
-      background-color: #ece6ff;
-    }
+Looking ahead, my goal is to carry forward these engagements into the field of educational and digital communication, particularly in the context of my PhD focus in Digital Media. I see enormous potential in using critical making as a methodology for meaningful engagement—especially with underrepresented audiences in education and media. Whether designing curriculum, building participatory web experiences, or analyzing the politics of interface design, I want to use my skills to question systems, design more equitable media, and foster interactive, reflective learning.
 
-    blockquote {
-      margin: 10px 0 15px 0;
-      padding-left: 20px;
-      border-left: 3px solid #ccc;
-      font-style: italic;
-      color: #555;
-    }
+Tools like GitHub, Voyant, Twine, and others will remain central to my methodology—not simply because they’re useful, but because they help surface questions about accessibility, authorship, and audience. I also plan to integrate frameworks such as [Design Justice](https://design-justice.pubpub.org/) to ensure my work remains grounded in inclusive and accountable practices.
 
-    ul {
-      padding-left: 20px;
-    }
-
-    em {
-      color: #5a2a83;
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
-
-<h1>Critical Making Reflection: A Living Process</h1>
-
-<details open>
-  <summary>PAST: Challenged Expectations</summary>
-  <blockquote>"It is a maze of linked and abbreviated ideas searching for coherence..." — Joshua Reinier, <em>Z^k: A Zettelkablooey</em></blockquote>
-  <p>
-    When I began this course, I expected <strong>critical making</strong> to feel rigid—like applied critical theory with technical demands. 
-    Instead, it revealed itself as a <strong>flexible, evolving mindset</strong>, one that values <em>messiness</em>, <em>glitches</em>, and <em>incomplete paths</em> just as much as polished outcomes.
-  </p>
-  <p>
-    I learned that <strong>making</strong> isn't about technological mastery. It’s about risk, reflection, and radical openness. 
-    This realization shifted my perception of both academic work and creative practice.
-  </p>
-</details>
-
-<details>
-  <summary>PRESENT: Excited Experiments</summary>
-  <p><strong>Projects I want to keep alive:</strong> Comic Creation | Data Analysis</p>
-  <ul>
-    <li><strong>Comic Creation</strong> allowed me to break research into narrative fragments, letting humor, affect, and critique coexist.</li>
-    <li><strong>Data Analysis with Voyant Tools</strong> turned texts into landscapes — revealing networks and hidden patterns.</li>
-  </ul>
-  <p>Both experiences opened new possibilities for my future work: <em>multi-modal, experimental, and audience-centered</em>.</p>
-</details>
-
-<details>
-  <summary>FUTURE: Tools, Theories, Manifesto</summary>
-  <ul>
-    <li><strong>Voyant Tools</strong> remains in my research toolkit.</li>
-    <li><strong>Design Justice</strong> has become a foundational lens for all projects.</li>
-  </ul>
-  <p><strong>My Critical Making Manifesto:</strong></p>
-  <ul>
-    <li>Embrace the glitch.</li>
-    <li>Design <em>with</em> communities, not <em>for</em> them.</li>
-    <li>Value curiosity over control.</li>
-    <li>Treat every project as a conversation, not a monologue.</li>
-  </ul>
-</details>
-
-<h2>A Final Note</h2>
-<p><em>Critical making is not a static outcome—  
-It is a living, breathing, glitching, growing process.</em></p>
-<p><strong>And that's the point.</strong></p>
-
-</body>
-</html>
+In short, this course has not only deepened my technical and creative capacities—it has given me a new academic identity. I now see myself as a critical maker: someone who learns through doing, who reflects through sharing, and who designs for dialogue rather than display. I take this forward not just as a set of tools, but as a philosophy of practice—one that I will continue to build on in both my dissertation work and my future career in digital education and communication.
